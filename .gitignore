@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.OTTER_LOG
+*.zip
+verify_output*.txt
+remove_instructions.py
+update_nb.py
+debug_m4.py
+verify_nb.py
